@@ -1,0 +1,183 @@
+# Список животных проекта: латинское название <TAB> русское название
+# Строки с # - комментарии. Латинское название должно находиться в Open Tree of Life.
+# --- Животные: губки, гребневики, пластинчатые, стрекающие
+Spongilla lacustris	Бадяга озёрная
+Spongia officinalis	Туалетная губка
+Mnemiopsis leidyi	Мнемиопсис
+Trichoplax adhaerens	Трихоплакс
+Aurelia aurita	Ушастая аурелия
+Hydra vulgaris	Гидра обыкновенная
+Corallium rubrum	Красный коралл
+Actinia equina	Конская актиния
+Physalia physalis	Португальский кораблик
+# --- Плоские, кольчатые черви, моллюски
+Dendrocoelum lacteum	Молочная планария
+Taenia solium	Свиной цепень
+Fasciola hepatica	Печёночный сосальщик
+Lumbricus terrestris	Обыкновенный дождевой червь
+Hirudo medicinalis	Медицинская пиявка
+Arenicola marina	Пескожил морской
+Helix pomatia	Виноградная улитка
+Lymnaea stagnalis	Большой прудовик
+Anodonta cygnea	Беззубка лебединая
+Mytilus edulis	Съедобная мидия
+Octopus vulgaris	Обыкновенный осьминог
+Sepia officinalis	Каракатица лекарственная
+Loligo vulgaris	Обыкновенный кальмар
+Nautilus pompilius	Наутилус помпилиус
+# --- Линяющие: круглые черви, тихоходки, членистоногие
+Ascaris lumbricoides	Аскарида человеческая
+Caenorhabditis elegans	Нематода Caenorhabditis elegans
+Milnesium tardigradum	Тихоходка Milnesium tardigradum
+Araneus diadematus	Обыкновенный крестовик
+Ixodes ricinus	Собачий клещ
+Pandinus imperator	Императорский скорпион
+Limulus polyphemus	Атлантический мечехвост
+Scolopendra cingulata	Кольчатая сколопендра
+Astacus astacus	Широкопалый речной рак
+Daphnia pulex	Дафния обыкновенная
+Paralithodes camtschaticus	Камчатский краб
+Armadillidium vulgare	Мокрица-броненосец обыкновенная
+Apis mellifera	Медоносная пчела
+Formica rufa	Рыжий лесной муравей
+Musca domestica	Комнатная муха
+Drosophila melanogaster	Дрозофила фруктовая
+Culex pipiens	Комар-пискун (обыкновенный комар)
+Papilio machaon	Махаон
+Bombyx mori	Тутовый шелкопряд
+Coccinella septempunctata	Семиточечная коровка
+Melolontha melolontha	Западный майский хрущ
+Locusta migratoria	Перелётная саранча
+Blattella germanica	Рыжий таракан
+Libellula quadrimaculata	Четырёхпятнистая стрекоза
+Mantis religiosa	Обыкновенный богомол
+Pyrrhocoris apterus	Клоп-солдатик
+Pieris brassicae	Капустница
+Lucanus cervus	Жук-олень
+Vespula vulgaris	Обыкновенная оса
+Gryllus campestris	Полевой сверчок
+Pulex irritans	Человеческая блоха
+Lepisma saccharina	Обыкновенная чешуйница
+# --- Вторичноротые: иглокожие, бесчерепные, оболочники
+Asterias rubens	Обыкновенная морская звезда
+Echinus esculentus	Съедобный морской ёж
+Apostichopus japonicus	Дальневосточный трепанг
+Branchiostoma lanceolatum	Европейский ланцетник
+Ciona intestinalis	Асцидия Ciona intestinalis
+# --- Позвоночные: бесчелюстные и рыбы
+Lampetra fluviatilis	Речная минога
+Myxine glutinosa	Обыкновенная миксина
+Carcharodon carcharias	Белая акула
+Raja clavata	Шиповатый скат (морская лисица)
+Chimaera monstrosa	Европейская химера
+Acipenser ruthenus	Стерлядь
+Esox lucius	Обыкновенная щука
+Cyprinus carpio	Карп (сазан)
+Salmo salar	Атлантический лосось (сёмга)
+Perca fluviatilis	Речной окунь
+Gadus morhua	Атлантическая треска
+Hippocampus hippocampus	Европейский морской конёк
+Danio rerio	Данио-рерио
+Thunnus thynnus	Обыкновенный тунец
+Anguilla anguilla	Речной угорь
+Clupea harengus	Атлантическая сельдь
+Latimeria chalumnae	Латимерия
+Protopterus annectens	Бурый протоптер
+# --- Земноводные
+Rana temporaria	Травяная лягушка
+Bufo bufo	Серая (обыкновенная) жаба
+Xenopus laevis	Гладкая шпорцевая лягушка
+Lissotriton vulgaris	Обыкновенный тритон
+Salamandra salamandra	Огненная саламандра
+Ichthyophis glutinosus	Цейлонский рыбозмей
+# --- Пресмыкающиеся
+Sphenodon punctatus	Гаттерия
+Lacerta agilis	Прыткая ящерица
+Natrix natrix	Обыкновенный уж
+Vipera berus	Обыкновенная гадюка
+Varanus komodoensis	Комодский варан
+Chamaeleo chamaeleon	Обыкновенный хамелеон
+Iguana iguana	Обыкновенная игуана
+Python regius	Королевский питон
+Testudo graeca	Средиземноморская черепаха
+Chelonia mydas	Зелёная черепаха
+Crocodylus niloticus	Нильский крокодил
+Alligator mississippiensis	Миссисипский аллигатор
+# --- Птицы
+Struthio camelus	Африканский страус
+Gallus gallus	Банкивская джунглевая курица
+Anas platyrhynchos	Кряква
+Columba livia	Сизый голубь
+Aquila chrysaetos	Беркут
+Bubo bubo	Филин
+Passer domesticus	Домовый воробей
+Corvus corax	Ворон
+Aptenodytes forsteri	Императорский пингвин
+Psittacus erithacus	Жако
+Falco peregrinus	Сапсан
+Cuculus canorus	Обыкновенная кукушка
+Dendrocopos major	Большой пёстрый дятел
+Apteryx australis	Южный киви
+Ciconia ciconia	Белый аист
+Phoenicopterus roseus	Розовый фламинго
+Larus argentatus	Серебристая чайка
+Apus apus	Чёрный стриж
+# --- Млекопитающие
+Ornithorhynchus anatinus	Утконос
+Tachyglossus aculeatus	Австралийская ехидна
+Osphranter rufus	Большой рыжий кенгуру
+Phascolarctos cinereus	Коала
+Didelphis virginiana	Виргинский опоссум
+Loxodonta africana	Саванный слон
+Trichechus manatus	Американский ламантин
+Dasypus novemcinctus	Девятипоясный броненосец
+Bradypus tridactylus	Трёхпалый ленивец
+Homo sapiens	Человек разумный
+Pan troglodytes	Обыкновенный шимпанзе
+Gorilla gorilla	Западная горилла
+Pongo pygmaeus	Калимантанский орангутан
+Macaca mulatta	Макак-резус
+Lemur catta	Кошачий лемур
+Mus musculus	Домовая мышь
+Rattus norvegicus	Серая крыса
+Sciurus vulgaris	Обыкновенная белка
+Castor fiber	Обыкновенный бобр
+Oryctolagus cuniculus	Дикий кролик
+Lepus europaeus	Заяц-русак
+Erinaceus europaeus	Обыкновенный ёж
+Talpa europaea	Европейский крот
+Nyctalus noctula	Рыжая вечерница
+Pteropus vampyrus	Гигантская летучая лисица
+Felis catus	Домашняя кошка
+Panthera leo	Лев
+Panthera tigris	Тигр
+Canis lupus	Волк
+Vulpes vulpes	Обыкновенная лисица
+Ursus arctos	Бурый медведь
+Ursus maritimus	Белый медведь
+Phoca vitulina	Обыкновенный тюлень
+Odobenus rosmarus	Морж
+Equus caballus	Домашняя лошадь
+Equus grevyi	Зебра Греви
+Rhinoceros unicornis	Индийский носорог
+Sus scrofa	Кабан
+Bos taurus	Домашний бык (корова)
+Ovis aries	Домашняя овца
+Camelus bactrianus	Двугорбый верблюд
+Giraffa camelopardalis	Жираф
+Cervus elaphus	Благородный олень
+Alces alces	Лось
+Hippopotamus amphibius	Обыкновенный бегемот
+Balaenoptera musculus	Синий кит
+Tursiops truncatus	Афалина
+Orcinus orca	Косатка
+Elephas maximus	Азиатский слон
+Orycteropus afer	Трубкозуб
+Sarcophilus harrisii	Тасманийский дьявол
+Hylobates lar	Белорукий гиббон
+Cavia porcellus	Домашняя морская свинка
+Meles meles	Барсук
+Rangifer tarandus	Северный олень
+Physeter macrocephalus	Кашалот
+Tapirus terrestris	Равнинный тапир
+Manis pentadactyla	Китайский панголин
